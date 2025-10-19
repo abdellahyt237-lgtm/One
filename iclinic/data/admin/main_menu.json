@@ -1,0 +1,10 @@
+{
+  "title": "iClinic Admin",
+  "header": "لوحة إدارة iClinic",
+  "menu": [
+    { "id": "subjects", "label": "إضافة مادة 🧬" },
+    { "id": "case_or_question", "label": "إضافة حالة مرضية أو سؤال 🩺❓" },
+    { "id": "join", "label": "طلبات الانضمام 🔭" },
+    { "id": "delete", "label": "الحذف 🗜️" }
+  ]
+}

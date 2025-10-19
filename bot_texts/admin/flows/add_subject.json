@@ -1,9 +1,0 @@
-{
-  "context": "admin_add_subject",
-  "title": "إضافة مادة 🧬",
-  "steps": [
-    { "prompt": "أدخل اسم المادة 🧬", "type": "text" },
-    { "prompt": "تأكيد الحفظ؟ 💾", "type": "confirm", "options": ["موافق ✅", "لا ❌"] },
-    { "message": "يتم حفظ المادة في الملف المخصص 📁" }
-  ]
-}
